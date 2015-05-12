@@ -47,7 +47,7 @@ Below is a detailed list of descriptions of the individual menu items, grouped a
   - **Hide Identity Panel**: Hides/shows the panel containing your user name and current status. Hiding this is probably not very convenient, but may still help e.g. on a laptop display where space is scarce.
 - **Show Notifications**: Options to customize the location of notification popups.
   - **On Display**: If you have multiple monitors, you can choose on which of the monitors you wish the notification popups to appear.
-  - **At Location**: Select in which corner of the selected monitor you want the notifications to appear. Default is bottom right, near your system tray. If you want the notifications to appear more towards the center of the screen, you can customize the exact positions by manually setting the values mentioned in the [Advanced Options](#Advanced-Options) chapter below.
+  - **At Location**: Select in which corner of the selected monitor you want the notifications to appear. Default is bottom right, near your system tray. If you want the notifications to appear more towards the center of the screen, you can customize the exact positions by manually setting the values mentioned in the [Advanced Options](#advanced-options) chapter below.
 - **Language**: Change `SUP`'s menu language. So far English, German and Russian are supported. (Feel free to contact us if you can provide translations to other languages or simply create a pull request.)
 - **Help**: Provides information about `SUP` as well as quick links to this page and the release download page for new versions.
 
